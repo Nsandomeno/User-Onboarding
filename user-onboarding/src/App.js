@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <div className="Form" >
-        <NewForm />
+        <NewForm name="" email="" password="" />
       </div>
     </div>
   );
